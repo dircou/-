@@ -1,0 +1,24 @@
+2018-12-18 Kingston 64GB
+　设备描述: [F:]USB 大容量存储设备(Kingston DataTraveler 3.0)
+　设备类型: 大容量存储设备
+
+　协议版本: USB 2.10 <- 提醒：该设备支持USB3.0规范，将其连接到USB3.0接口可提高其性能
+　当前速度: 高速(HighSpeed)
+　电力消耗: 300mA
+
+ USB设备ID: VID = 0951 PID = 1666
+设备序列号: 50E549C3445FE2A039103DEF
+
+设备供应商: Kingston
+　设备名称: DataTraveler 3.0
+设备修订版: 0110
+
+产品制造商: Kingston
+　产品型号: DataTraveler 3.0
+产品修订版: PMAP
+
+　主控厂商: Phison(群联)
+　主控型号: PS2251-09(PS2309) - F/W 08.03.5D [2018-05-24]
+闪存识别码: 2CA40832 - Micron(美光) [TLC]
+
+　在线资料: http://dl.mydigit.net/special/up/phison.html
